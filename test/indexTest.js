@@ -1,4 +1,4 @@
-const expect = chai.expect;
+/*const expect = chai.expect;
 
 describe("index.js", () => {
 
@@ -47,3 +47,6 @@ describe("index.js", () => {
     });
   });
 });
+*/
+
+init();
